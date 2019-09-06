@@ -5,12 +5,16 @@
 /dist/
 
 /lime/node_modules
+build 
 
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
 
 # Unit test / coverage reports
 .cache
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
 
 # Created by https://www.gitignore.io/api/pycharm
 
